@@ -2,7 +2,6 @@
 
 ![Banner](banner.png)
 
-============================================================================================
 # Hi there 👋 I'm Kevin Barrutia, a passionate Backend development and tech-lover.
 -----------------
 
